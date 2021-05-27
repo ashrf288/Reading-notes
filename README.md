@@ -9,7 +9,7 @@
 |1 |[ Growth Mindset ](https://ashrf288.github.io/Reading-notes/grwoth-mindset)|
 |2| [Mark down language](https://ashrf288.github.io/Reading-notes/markDown-language)|
 |3 | [wire-framing](https://ashrf288.github.io/Reading-notes/wire-framing)
-4 | [javaScript](https://replit.com/@ashrfMathkour/reading-notes-2#javaScript.md)
+4 | [javaScript](https://ashrf288.github.io/Reading-notes/java-script)
 
 
 
