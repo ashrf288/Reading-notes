@@ -1,14 +1,16 @@
-# Growth Mindset:
-
-*It is a mental state in which we confront our challenges and push our selves to the limits.*
-
-## reminders to keep yourself in a growth mindset: ##
-
--remind my self of what i will gain after solving or overcome my challenge.
-
--take a walk to think better about the best approch for solving the challenge.
-
--convince my self that i have to do it soon or later but thesooner the better.
+# Lab-02---Revisions-and-the-Cloud
 
 
-[for more info. ](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
+### hello im ashrf obeidat from irbed jordan studied plant production at jordan university of scince and technology
+
+
+|num of reading|  reading-notes name|
+|--------------|----------------------|
+|1 |[ Growth Mindset ](growth-mindset.md)|
+|2| [Mark down language](https://replit.com/@ashrfMathkour/Lab-02-Revisions-and-the-Cloud#markdown-lang.md)|
+|3 | [wire-framing](https://replit.com/@ashrfMathkour/reading-notes-1#wire-framing.md)
+4 | [javaScript](https://replit.com/@ashrfMathkour/reading-notes-2#javaScript.md)
+
+
+
+
