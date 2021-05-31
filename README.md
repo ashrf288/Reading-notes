@@ -13,7 +13,7 @@
 |5 | [git](https://ashrf288.github.io/Reading-notes/Git)
 |6 | [loops](https://ashrf288.github.io/Reading-notes/loops)
 |7 | [functions](https://ashrf288.github.io/Reading-notes/functions)
-|8 | [css](https://ashrf288.github.io/Reading-notes/functions)
+|8 | [css](https://ashrf288.github.io/Reading-notes/css)
 
 
 
