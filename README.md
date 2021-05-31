@@ -11,7 +11,7 @@
 |3 | [wire-framing](https://ashrf288.github.io/Reading-notes/wire-framing)
 |4 | [javaScript](https://ashrf288.github.io/Reading-notes/java-script)
 |5 | [git](https://ashrf288.github.io/Reading-notes/Git)
-|6 | [loops](https://ashrf288.github.io/Reading-notes/loops/)
+|6 | [loops](https://ashrf288.github.io/Reading-notes/loops)
 |7 | [functions](https://ashrf288.github.io/Reading-notes/functions)
 |8 | [control flow](https://ashrf288.github.io/control-flow/Git)|
 
