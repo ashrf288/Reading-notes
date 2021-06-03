@@ -23,7 +23,7 @@
 
 |num of reading|  reading-notes name|
 |--------------|----------------------|
-| 1    | [class-01.md]() |
+| 1    | [class-01.md](https://ashrf288.github.io/Reading-notes/class-01) |
 |2     |   |
 | 3    | |
 |4     |  |
