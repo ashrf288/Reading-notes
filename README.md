@@ -7,14 +7,14 @@
 ## 102 reading notes :
 |num of reading|  reading-notes name|
 |--------------|----------------------|
-|1 |[ Growth Mindset ](https://ashrf288.github.io/Reading-notes/grwoth-mindset)|
-|2| [Mark down language](https://ashrf288.github.io/Reading-notes/markDown-language)|
-|3 | [wire-framing](https://ashrf288.github.io/Reading-notes/wire-framing)|
-|4 | [javaScript](https://ashrf288.github.io/Reading-notes/java-script)|
-|5 | [git](https://ashrf288.github.io/Reading-notes/Git)|
-|6 | [loops](https://ashrf288.github.io/Reading-notes/loops)|
-|7 | [functions](https://ashrf288.github.io/Reading-notes/functions)|
-|8 | [css](https://ashrf288.github.io/Reading-notes/css)|
+|1             |        [ Growth Mindset ](https://ashrf288.github.io/Reading-notes/grwoth-mindset)|
+|2             | [Mark down language](https://ashrf288.github.io/Reading-notes/markDown-language)|
+|3             | [wire-framing](https://ashrf288.github.io/Reading-notes/wire-framing)|
+|4             | [javaScript](https://ashrf288.github.io/Reading-notes/java-script)|
+|5             | [git](https://ashrf288.github.io/Reading-notes/Git)|
+|6             | [loops](https://ashrf288.github.io/Reading-notes/loops)|
+|7             | [functions](https://ashrf288.github.io/Reading-notes/functions)|
+|8             | [css](https://ashrf288.github.io/Reading-notes/css)|
 
 
 
