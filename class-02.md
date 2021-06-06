@@ -21,7 +21,7 @@ results is:
 
 
 
-** Paragraphs : **
+**Paragraphs :**
 `<p>this is a paragraph</p>`
 
 result:
@@ -29,7 +29,7 @@ result:
 this is a paragraph
 
 
-** Bold & Italic :**
+**Bold & Italic:**
 
 `<b> this is bold <b>`            
 
@@ -57,7 +57,7 @@ break, `<br/>` it treats that as a single space too. This is known as
 white space collapsing.**
 
 
-**Quotations :**
+**Quotations:**
 
 
 `<blockquote>p>Did you ever stop to think, and forget to start
@@ -66,7 +66,7 @@ result:
 >p>Did you ever stop to think, and forget to start
 again?
 
-** Changes to Content :**
+**Changes to Content:**
 
 `<ins>` show content that has been inserted into a document
 
@@ -134,7 +134,7 @@ there is  many types of varibles :
 
   ![variables](https://www.toolsqa.com/wp-content/gallery/javascript/Data-type-in-Javascript-revised.png)
 
-**3- OPERATORS : ** 
+**3- OPERATORS:** 
 + ARITHMETIC OPERATORS :
 
 ![arthmatic](https://www.devopsschool.com/blog/wp-content/uploads/2020/07/JavaScript-Arithmatic-Operators.png)
