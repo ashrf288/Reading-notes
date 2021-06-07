@@ -9,7 +9,7 @@
 |num of reading|  reading-notes name|
 |--------------|----------------------|
 | 1    | [class-01.md](https://ashrf288.github.io/Reading-notes/class-01) |
-|2     |   |
+|2     |  [class-02.md](https://ashrf288.github.io/Reading-notes/class-02) |
 | 3    | |
 |4     |  |
 | 5    | |
