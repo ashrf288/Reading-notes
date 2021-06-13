@@ -14,7 +14,7 @@
 |4     | [class-04.md](https://ashrf288.github.io/Reading-notes/class-04) |
 | 5    | [class-05.md](https://ashrf288.github.io/Reading-notes/class-05)|
 |6     | [class-06.md](https://ashrf288.github.io/Reading-notes/class-06) |
-| 7    |  |
+| 7    |    [class-07.md](https://ashrf288.github.io/Reading-notes/class-07)  |
 |8     |  |
 | 9    | |
 |10     |  |
