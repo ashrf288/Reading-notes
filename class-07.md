@@ -78,6 +78,9 @@ used on a `<th>` or `<td> `element to indicate how many rows a cell should span 
 </table>
 ```
 
+
+
+
  ## in long tables:
 **`<thead>`** The headings of the table should sit inside the `<thead>` element.
 
