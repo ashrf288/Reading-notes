@@ -18,7 +18,7 @@
 |8     |  [class-08.md](https://ashrf288.github.io/Reading-notes/class-08)|
 | 9    | [class-09.md](https://ashrf288.github.io/Reading-notes/class-09) |
 |10     |  [class-10.md](https://ashrf288.github.io/Reading-notes/class-10) |
-| 11    |  |
+| 11    | [class-11.md](https://ashrf288.github.io/Reading-notes/class-11) |
 |12     | |
 | 13    | |
 |14     | |
