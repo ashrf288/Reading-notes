@@ -1,6 +1,6 @@
 # charts :
 
-** Chart.js,** a JavaScript plugin that uses HTML5’s canvas element to draw the graph onto the page
+**Chart.js,** a JavaScript plugin that uses HTML5’s canvas element to draw the graph onto the page
 
 
 
@@ -25,7 +25,7 @@
 </html>
 ```
 ## some types of charts:
-**1- bar charts **
+**1- bar charts**
 1- add this to the body of our HTML page:
 
 `<canvas id="income" width="600" height="400"></canvas>`
@@ -65,13 +65,13 @@ the `<canvas>` element has only two attributes,` width `and` height`
 
 The `id` attribute isn't specific to the `<canvas>` element but is one of the **global HTML attributes**
 
-**The <canvas> element can be styled just like any normal image
-however, don't affect the actual drawing on the canvas.**
+The <canvas> element can be styled just like any normal image
+however, don't affect the actual drawing on the canvas
 
 
 **Fallback content** content to be displayed if the browser dosenot support the feature.
 
- ### how to apply it : just insert the alternate content inside the <canvas> element. thats why  `<canvas>` element requires the closing tag `(</canvas>)`
+ ###  how to apply it : just insert the alternate content inside the <canvas> element. thats why  `<canvas>` element requires the closing tag `(</canvas>)`
 
 
  ## rendering context:
