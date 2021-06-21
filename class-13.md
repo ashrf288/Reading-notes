@@ -53,6 +53,8 @@ in the past cookies were ussed to store data but it has some issues :
 
 
 ## database product :
+example :
+ **“SQL”**
   new API has been standardized and implemented across all major browsers
      
 
