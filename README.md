@@ -21,7 +21,7 @@
 | 11    | [class-11.md](https://ashrf288.github.io/Reading-notes/class-11) |
 |12     | [class-12.md](https://ashrf288.github.io/Reading-notes/class-12) |
 | 13    |  [class-13.md](https://ashrf288.github.io/Reading-notes/class-13) |
-|14     | |
+|14     |   [class-14.md](https://ashrf288.github.io/Reading-notes/class-14) |
 | 15    |  |
 
 
