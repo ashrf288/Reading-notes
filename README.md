@@ -3,6 +3,28 @@
 
 ### hello im ashrf obeidat from irbed jordan studied plant production at jordan university of scince and technology
 
+
+## 301 readings table :
+
+
+|num of reading|  reading-notes name|
+|--------------|----------------------|
+| 1    | [class-01.md]() |
+|2     |  [class-02.md]() |
+| 3    | [class-03.md]()  |
+|4     | [class-04.md]() |
+| 5    | [class-05.md]()|
+|6     | [class-06.md]() |
+| 7    |    [class-07.md]()  |
+|8     |  [class-08.md]()|
+| 9    | [class-09.md]() |
+|10     |  [class-10.md]() |
+| 11    | [class-11.md]() |
+|12     | [class-12.md]() |
+| 13    |  [class-13.md]() |
+|14     |   [class-14.md]() |
+| 15    |  [class-15.md]()|
+
 ## 201 readings table :
 
 
