@@ -117,3 +117,38 @@ Model any component dependencies as interfaces rather than representing them as 
 
 8- Independent 
 
+# React’s Props
+
+**“Props” is a special keyword in React, which stands for properties and is being used for passing data from one component to another.**
+
+
+ data with props are being passed in a uni-directional flow. **(one way from parent to child)** props data is **read-only,** which means that data coming from the parent **should not be changed** by child components.props data is read-only, which means that data coming from the parent should not be changed by child components.
+
+
+
+ ## Using Props in React:
+ 1- define an attribute and its value(data).
+ ```
+<ChildComponent text={“I’m the 1st child”} />
+ ```
+
+
+2-  pass it to child component(s) by using Props.
+```
+const ChildComponent = (props) => {  
+  return <p>I'm the 1st child!</p>; 
+};
+```
+
+
+3-  render the Props Data.
+```
+const ChildComponent = (props) => {  
+  return <p>{props.text}</p>; 
+};
+```
+
+
+
+
+
