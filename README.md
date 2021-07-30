@@ -9,7 +9,7 @@
 
 |num of reading|  reading-notes name|
 |--------------|----------------------|
-| 1    | [301 class-01.md]() |
+| 1    | [301 class-01.md](https://ashrf288.github.io/Reading-notes/301Readings/class-01.md) |
 |2     |  [301 class-02.md]() |
 | 3    | [301 class-03.md]()  |
 |4     | [301 class-04.md]() |
