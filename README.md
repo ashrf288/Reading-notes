@@ -3,6 +3,28 @@
 
 ### hello im ashrf obeidat from irbed jordan studied plant production at jordan university of scince and technology
 
+
+## 301 readings table :
+
+
+|num of reading|  reading-notes name|
+|--------------|----------------------|
+| 1    | [301 class-01.md]() |
+|2     |  [301 class-02.md]() |
+| 3    | [301 class-03.md]()  |
+|4     | [301 class-04.md]() |
+| 5    | [301 class-05.md]()|
+|6     | [301 class-06.md]() |
+| 7    |    [301 class-07.md]()  |
+|8     |  [301 class-08.md]()|
+| 9    | [301 class-09.md]() |
+|10     |  [301 class-10.md]() |
+| 11    | [301 class-11.md]() |
+|12     | [301 class-12.md]() |
+| 13    |  [301 class-13.md]() |
+|14     |   [301 class-14.md]() |
+| 15    |  [301 class-15.md]()|
+
 ## 201 readings table :
 
 
@@ -14,15 +36,15 @@
 |4     | [class-04.md](https://ashrf288.github.io/Reading-notes/class-04) |
 | 5    | [class-05.md](https://ashrf288.github.io/Reading-notes/class-05)|
 |6     | [class-06.md](https://ashrf288.github.io/Reading-notes/class-06) |
-| 7    |  |
-|8     |  |
-| 9    | |
-|10     |  |
-| 11    |  |
-|12     | |
-| 13    | |
-|14     | |
-| 15    |  |
+| 7    |    [class-07.md](https://ashrf288.github.io/Reading-notes/class-07)  |
+|8     |  [class-08.md](https://ashrf288.github.io/Reading-notes/class-08)|
+| 9    | [class-09.md](https://ashrf288.github.io/Reading-notes/class-09) |
+|10     |  [class-10.md](https://ashrf288.github.io/Reading-notes/class-10) |
+| 11    | [class-11.md](https://ashrf288.github.io/Reading-notes/class-11) |
+|12     | [class-12.md](https://ashrf288.github.io/Reading-notes/class-12) |
+| 13    |  [class-13.md](https://ashrf288.github.io/Reading-notes/class-13) |
+|14     |   [class-14.md](https://ashrf288.github.io/Reading-notes/class-14) |
+| 15    |  [class-15.md](https://ashrf288.github.io/Reading-notes/class-15)|
 
 
 
