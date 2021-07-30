@@ -4,7 +4,7 @@
 
  **component**  is a modular, portable, replaceable, and reusable set of well-defined functionality that encapsulates its implementation and exporting it as a higher-level interface.
 
- ![component image](img/component.png)
+ ![component image](../img/component.png)
 
  **Component-based architecture** focuses on the **decomposition of the design into individual functional or logical components** that represent well-defined communication interfaces containing methods, events, and properties.
 
@@ -127,13 +127,14 @@ Model any component dependencies as interfaces rather than representing them as 
 
 
  ## Using Props in React:
+ 
  1- define an attribute and its value(data).
  ```
 <ChildComponent text={“I’m the 1st child”} />
  ```
 
 
-2-  pass it to child component(s) by using Props.
+2- pass it to child component(s) by using Props.
 ```
 const ChildComponent = (props) => {  
   return <p>I'm the 1st child!</p>; 
@@ -141,7 +142,7 @@ const ChildComponent = (props) => {
 ```
 
 
-3-  render the Props Data.
+3- render the Props Data.
 ```
 const ChildComponent = (props) => {  
   return <p>{props.text}</p>; 
