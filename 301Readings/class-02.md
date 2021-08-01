@@ -1,5 +1,5 @@
 ## component lifecycle events:
-![component img](../img/lifeCycle)
+![component img](../img/lifeCycle.png)
 
   The methods that you are able to use on React components **(classes or functions.)**
 
