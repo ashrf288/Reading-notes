@@ -19,7 +19,7 @@
 
 1-  What is the spread operator?
 
-** ellipsis of three dots (…) to expand an iterable object into the list of arguments.**
+**ellipsis of three dots (…) to expand an iterable object into the list of arguments.**
 
 
 
@@ -72,7 +72,7 @@ let object={...obj1,...obj2}
 
 1- In the video, what is the first step that the developer does to pass functions between components?
 
-** define the function inside the parent and pass it to the child as a prop**
+**define the function inside the parent and pass it to the child as a prop**
 
 
 2- n your own words, what does the increment function do?
@@ -89,4 +89,4 @@ let object={...obj1,...obj2}
 4-How does the child component invoke a method that was passed to it from a parent component?
 
 
-** by calling  the prop that holds the function inside the child function**
+**by calling  the prop that holds the function inside the child function**
