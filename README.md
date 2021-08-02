@@ -11,7 +11,7 @@
 |--------------|----------------------|
 | 1    | [301 class-01.md](https://ashrf288.github.io/Reading-notes/301Readings/class-01) |
 |2     |  [301 class-02.md](https://ashrf288.github.io/Reading-notes/301Readings/class-02) |
-| 3    | [301 class-03.md]()  |
+| 3    | [301 class-03.md](https://ashrf288.github.io/Reading-notes/301Readings/class-03))  |
 |4     | [301 class-04.md]() |
 | 5    | [301 class-05.md]()|
 |6     | [301 class-06.md]() |
