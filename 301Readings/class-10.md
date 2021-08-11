@@ -6,7 +6,7 @@
 The call stack is primarily used for function invocation (call). Since the call stack is single.
 
 ## How many ‘calls’ can happen at once? 
-a stack of calls
+one call
 
 ## What does LIFO mean?
 the call stack, operates by the data structure principle of Last In, First Out, it means that the last function that gets pushed into the stack is the first to be pop out, when the function returns.
