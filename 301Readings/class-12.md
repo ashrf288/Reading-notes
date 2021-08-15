@@ -7,12 +7,13 @@
 |SQL	 |NoSQL |
 
 --- | --- | ---
+
 |elational Database | non-relational or distributed database.|
 |table based databases|document based, key-value pairs|
 |have predefined schema|dynamic schema |
 |vertically scalable|horizontally scalable.|
 | structured query language | queries are focused on collection of documents..|
---- | --- | ---
+
 
 
 ## What kind of data is a good fit for an SQL database?
