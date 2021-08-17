@@ -22,8 +22,8 @@
 | 11    | [301 class-11.md](https://ashrf288.github.io/Reading-notes/301Readings/class-11) |
 |12     | [301 class-12.md](https://ashrf288.github.io/Reading-notes/301Readings/class-12) |
 | 13    |  [301 class-13.md](https://ashrf288.github.io/Reading-notes/301Readings/class-13) |
-|14     |   [301 class-14.md](https://ashrf288.github.io/Reading-notes/301Readings/class-13) |
-| 15    |  [301 class-15.md]()|
+|14     |   [301 class-14a.md](https://ashrf288.github.io/Reading-notes/301Readings/class-14) |
+| 15    |  [301 class-14b.md]()|
 
 ## 201 readings table :
 
