@@ -7,7 +7,7 @@
 
 |num of reading|  reading-notes name|
 |--------------|----------------------|
-| 1    | [bigOnotation](https://ashrf288.github.io/Reading-notes/401Readings/bigOnotation)|
+| 1    | [bigOnotation](https://ashrf288.github.io/Reading-notes/401Readings/big0notation)|
 |2     |  |
 | 3    |  |
 |4     | |
