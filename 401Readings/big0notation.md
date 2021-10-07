@@ -78,8 +78,6 @@ quadatric time
 as the input gorws it will takes double the time or memory from befor adding that input
 
 
-you can start evalute data structre base on how they evalute different things (like insert)
-you need to use somthing that will abetter grade big O  that the other 
 
 ### example: 
 linked -list : uses O(1) for adding to start of array
@@ -92,3 +90,47 @@ searching for item is easier in array more than linked list because index will h
 
 
 **the size of the list and what we want to do with list items are keys to help us pick the right approch**
+
+
+
+
+## pythin names and values:
+
+1-nams are assigned independintly
+
+2- names refers to the value (not to other names)
+
+3- in python memroy is managed dynamicly (vaule live untill there is now referce to it)
+
+4- asssignment never copy data (only refer to the same value and not copy it)
+so if you change a value in (ex:list) all the names will have that change because they all refer to the same list (this is the cast in mutable data type)
+
+5- in imutable data type (string,tuples,int) when  change there values the new value value wont be stored  in that refernce but it will store the value in new reffernce
+(do not change in place)
+
+
+## rebinding and mutating:
+### binding:
+```
+str='aaa'
+nums=[1,2,3]
+x=1
+```
+
+### rebinding
+```
+x=x+1
+str=str+'aa'
+```
+**cant be mutated**
+
+### mutating
+`nums.append(4)`
+
+**assignment is the same in all values but changing is different and that what gives a different behaviour**
+
+write function that do not mutate list but return new list mkae the code alot eaiser to understand 
+
+
+you can start evalute data structre base on how they evalute different things (like insert)
+you need to use somthing that will abetter grade big O  that the other 
