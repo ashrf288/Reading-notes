@@ -9,7 +9,7 @@
 |--------------|----------------------|
 | 1    | [bigOnotation](https://ashrf288.github.io/Reading-notes/401Readings/big0notation)|
 |2     |  [recursion](https://ashrf288.github.io/Reading-notes/401Readings/recurasion)|
-| 3    |  |
+| 3    |  [fileHandleing](https://ashrf288.github.io/Reading-notes/401Readings/fileHandleing)|
 |4     | |
 | 5    ||
 |6     | |
