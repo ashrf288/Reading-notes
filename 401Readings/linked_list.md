@@ -1,4 +1,4 @@
-## Big O:
+## Big O :
 
 
 **Big Omega**: This notation describes the Best Case for a given algorithm. The Order of Growth used represents the lower bounds of Time and Space.
