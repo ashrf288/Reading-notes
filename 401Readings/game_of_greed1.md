@@ -55,7 +55,7 @@ for i in range(3):
 
  # Risk Analysis
 
- + Why use Risk Analysis?
+ ## Why use Risk Analysis?
 
 1- highlights the potential problem areas. 
 
@@ -112,7 +112,7 @@ steps:
 
   **high coverage numbers are too easy to reach with low quality testing.**
 
-  ** TDD is a very useful, but certainly not sufficient, **
+  **TDD is a very useful, but certainly not sufficient,**
 
 
   **I would expect a coverage percentage in the upper 80s or 90s. I would be suspicious of anything like 100%**
