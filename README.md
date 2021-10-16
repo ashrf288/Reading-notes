@@ -12,7 +12,7 @@
 | 3    |  [fileHandleing](https://ashrf288.github.io/Reading-notes/401Readings/fileHandleing)|
 |4     | [classes-and-object](https://ashrf288.github.io/Reading-notes/401Readings/classes-and-object)|
 | 5    |[linked_list](https://ashrf288.github.io/Reading-notes/401Readings/linkedList) |
-|6     | |
+|6     | [game_of_greed1](https://ashrf288.github.io/Reading-notes/401Readings/game_of_greed1)|
 | 7    |     |
 |8     | |
 | 9    | |
