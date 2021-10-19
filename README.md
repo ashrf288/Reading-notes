@@ -15,7 +15,7 @@
 |6     | [game_of_greed1](https://ashrf288.github.io/Reading-notes/401Readings/game_of_greed1)|
 | 7    |  [scope_python](https://ashrf288.github.io/Reading-notes/401Readings/scope_python)   |
 |8     | [List_comprehensions](https://ashrf288.github.io/Reading-notes/401Readings/List_comprehensions) |
-| 9    | [List_comprehensions](https://ashrf288.github.io/Reading-notes/401Readings/dunder_methods)|
+| 9    | [dunder_methods](https://ashrf288.github.io/Reading-notes/401Readings/dunder_methods)|
 |10     |  |
 | 11    | |
 |12     | |
