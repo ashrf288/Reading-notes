@@ -4,7 +4,7 @@
 ### hello im ashrf obeidat from irbed jordan studied plant production at jordan university of scince and technology
 ## 401 readings table :
 
-.md
+
 |num of reading|  reading-notes name|
 |--------------|----------------------|
 | 1    | [bigOnotation](https://ashrf288.github.io/Reading-notes/401Readings/big0notation)|
@@ -15,7 +15,7 @@
 |6     | [game_of_greed1](https://ashrf288.github.io/Reading-notes/401Readings/game_of_greed1)|
 | 7    |  [scope_python](https://ashrf288.github.io/Reading-notes/401Readings/scope_python)   |
 |8     | [List_comprehensions](https://ashrf288.github.io/Reading-notes/401Readings/List_comprehensions) |
-| 9    | |
+| 9    | [List_comprehensions](https://ashrf288.github.io/Reading-notes/401Readings/dunder_methods)|
 |10     |  |
 | 11    | |
 |12     | |
