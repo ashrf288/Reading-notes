@@ -94,7 +94,6 @@ you want to check isEmpty before conducting a peek. This will ensure that an exc
 1-FILO (First In Last Out)
 2-LIFO (Last In First Out)
 
-Stack Visualization
 
 
 
