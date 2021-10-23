@@ -17,7 +17,7 @@
 |8     | [List_comprehensions](https://ashrf288.github.io/Reading-notes/401Readings/List_comprehensions) |
 | 9    | [dunder_methods](https://ashrf288.github.io/Reading-notes/401Readings/dunder_methods)|
 |10     | [stacks](https://ashrf288.github.io/Reading-notes/401Readings/stacks) |
-| 11    | |
+| 11    | [NumPy](https://ashrf288.github.io/Reading-notes/401Readings/NumPy)|
 |12     | |
 | 13    |  |
 |14     |   |
