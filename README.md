@@ -20,7 +20,7 @@
 | 11    | [NumPy](https://ashrf288.github.io/Reading-notes/401Readings/NumPy)|
 |12     | [pandas](https://ashrf288.github.io/Reading-notes/401Readings/pandas)|
 | 13    | [Linear_regression](https://ashrf288.github.io/Reading-notes/401Readings/Linear_regression) |
-|14     |   |
+|14     |  [matplotlib](https://ashrf288.github.io/Reading-notes/401Readings/matplotlib) |
 | 15    | |
 | 16    | |
 |17     |  |
