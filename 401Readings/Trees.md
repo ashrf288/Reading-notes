@@ -202,4 +202,4 @@ ex:  If the value is smaller, you only traverse the left side. If the value is l
 **the Big O time complexity of a Binary Search Tree’s insertion and search operations is O(h), or O(height)**
 
 
-![more info about trees](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-15/resources/Trees.html)
+[more info about trees](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-15/resources/Trees.html)
