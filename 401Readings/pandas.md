@@ -7,6 +7,69 @@ mport as follows:
 import pandas as pd
 ```
 
+## series ( is like a col and data frame is like a table)
+
+pd.series()          # for col 
+
+pd.loc()           # for rows
+
+pd.DatafFame()     # for table
+
+Pandas use the `loc` attribute to return one or more specified row(s)
+
+```
+data = {
+  "calories": [420, 380, 390],
+  "duration": [50, 40, 45]
+}
+
+#load data into a DataFrame object:
+df = pd.DataFrame(data)
+
+print(df) 
+
+
+     calories  duration
+  0       420        50
+  1       380        40
+  2       390        45
+  
+  
+  
+#refer to the row index:
+print(df.loc[0])                # returns a Pandas Series.
+
+Result
+
+  calories    420
+  duration     50
+  Name: 0, dtype: int64
+```
+
+## give labels to your series
+
+
+```
+data = {
+  "calories": [420, 380, 390],
+  "duration": [50, 40, 45]
+}
+df = pd.DataFrame(data, index = ["day1", "day2", "day3"])
+
+       calories  duration
+  day1       420        50
+  day2       380        40
+  day3       390        45
+  
+  
+  print(df.loc["day2"])
+
+```
+
+
+
+
+
 ## Object creation
 
 1- Creating a **Series** by passing a list of values, letting pandas create a default integer index
