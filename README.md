@@ -22,9 +22,9 @@
 | 13    | [Linear_regression](https://ashrf288.github.io/Reading-notes/401Readings/Linear_regression) |
 |14     |  [matplotlib](https://ashrf288.github.io/Reading-notes/401Readings/matplotlib) |
 | 15    |[trees](https://ashrf288.github.io/Reading-notes/401Readings/Trees) |
-| 16    | |
+| 16    | [Machine learning](https://ashrf288.github.io/Reading-notes/401Readings/Machine_learning)|
 |17     |  |
-| 18    |  |
+| 18    |  |     
 |19     | |
 | 20    ||
 |21     | |
