@@ -25,7 +25,7 @@
 | 16    | [Machine learning](https://ashrf288.github.io/Reading-notes/401Readings/Machine_learning)|
 |17     | [web scraping](https://ashrf288.github.io/Reading-notes/401Readings/web_scraping) |
 | 18    | [Cryptography](https://ashrf288.github.io/Reading-notes/401Readings/Cryptography) |     
-|19     | |
+|19     | [regex_and_shutil](https://ashrf288.github.io/Reading-notes/401Readings/regex_and_shutil) |
 | 20    ||
 |21     | |
 |22    |     |
