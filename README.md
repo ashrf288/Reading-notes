@@ -26,7 +26,7 @@
 |17     | [web scraping](https://ashrf288.github.io/Reading-notes/401Readings/web_scraping) |
 | 18    | [Cryptography](https://ashrf288.github.io/Reading-notes/401Readings/Cryptography) |     
 |19     | [regex_and_shutil](https://ashrf288.github.io/Reading-notes/401Readings/regex_and_shutil) |
-| 20    ||
+| 20    |[django](https://ashrf288.github.io/Reading-notes/401Readings/django)|
 |21     | |
 |22    |     |
 |23     | |
