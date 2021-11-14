@@ -27,7 +27,7 @@
 | 18    | [Cryptography](https://ashrf288.github.io/Reading-notes/401Readings/Cryptography) |     
 |19     | [regex_and_shutil](https://ashrf288.github.io/Reading-notes/401Readings/regex_and_shutil) |
 | 20    |[django](https://ashrf288.github.io/Reading-notes/401Readings/django)|
-|21     | |
+|21     | [django_models](https://ashrf288.github.io/Reading-notes/401Readings/django_models) | 
 |22    |     |
 |23     | |
 | 24    | |
