@@ -30,7 +30,7 @@
 |21     | [django_models](https://ashrf288.github.io/Reading-notes/401Readings/django_models) | 
 |22    |  [forms](https://ashrf288.github.io/Reading-notes/401Readings/forms)  |
 |23     | [custom_Model](https://ashrf288.github.io/Reading-notes/401Readings/custom_Model)|
-| 24    | |
+| 24    | [hash_tables](https://ashrf288.github.io/Reading-notes/401Readings/hash_tables)|
 |25     |  |
 | 26    | |
 |27     | |
