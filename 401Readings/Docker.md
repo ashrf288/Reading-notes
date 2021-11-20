@@ -139,4 +139,9 @@ Make a serializers.py file within our api app.
 We can use the popular cURL program to execute HTTP requests via the command line.All we need for a basic GET request it to specify curl and the URL we want to call.
 
 
+## resources
 
+1- [djangoforapis](https://djangoforapis.com/library-website-and-api/)
+
+
+2- [beginners-guide-to-docker](https://wsvincent.com/beginners-guide-to-docker/)
