@@ -32,7 +32,7 @@
 |23     | [custom_Model](https://ashrf288.github.io/Reading-notes/401Readings/custom_Model)|
 | 24    | [hash_tables](https://ashrf288.github.io/Reading-notes/401Readings/hash_tables)|
 |25     | [Docker](https://ashrf288.github.io/Reading-notes/401Readings/Docker) |
-| 26    | |
+| 26    | [django-rest-framework](https://ashrf288.github.io/Reading-notes/401Readings/django-rest-framework) |
 |27     | |
 | 28    |  |
 |29     |   |
