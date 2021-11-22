@@ -33,7 +33,7 @@
 | 24    | [hash_tables](https://ashrf288.github.io/Reading-notes/401Readings/hash_tables)|
 |25     | [Docker](https://ashrf288.github.io/Reading-notes/401Readings/Docker) |
 | 26    | [django-rest-framework](https://ashrf288.github.io/Reading-notes/401Readings/django-rest-framework) |
-|27     | |
+|27     | [JWT](https://ashrf288.github.io/Reading-notes/401Readings/JWT)|
 | 28    |  |
 |29     |   |
 | 30    | |
