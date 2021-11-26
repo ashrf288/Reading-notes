@@ -116,3 +116,12 @@ we can add elements and remove elements from a linked list. But unlike arrays, w
 
 
 ![](https://miro.medium.com/max/3000/1*cUehR5S18XSoVLaPNfNzlA.jpeg)
+
+
+
+
+## resources :
+
+1- [singly_linked_list](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-05/resources/singly_linked_list.html)
+
+2- [/whats-a-linked-list-anyway-part](https://medium.com/basecs/whats-a-linked-list-anyway-part-1-d8b7e6508b9d)
