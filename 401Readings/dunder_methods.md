@@ -132,3 +132,9 @@ A Z-score is a numerical measurement that describes a value's relationship to th
 
 ![](https://i.imgur.com/3TuDF4G.jpg)
 
+
+
+
+## resources :
+
+ [python-dunder-methods](https://dbader.org/blog/python-dunder-methods)
