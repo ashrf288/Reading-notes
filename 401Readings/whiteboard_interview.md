@@ -1,7 +1,7 @@
-#  whiteboard interview.
+# whiteboard interview.
 
 
-## + Communicate
+##  Communicate
 
 
 . Restate the question for them and seek affirmation. You might actually be surprised to find you don’t fully understand what they’re asking for.
@@ -9,7 +9,7 @@
 There is no situation in which restating the problem will hurt you — it shows you can articulate a problem and gives you time to think it through a bit while you discuss. Furthermore, starting the discussion this way will help quell some nerves that might otherwise manifest while trying to solve the actual challenge.
 
 
-## + Ask About Edge Cases
+## Ask About Edge Cases
 
 This is free and you should take advantage of it. Simply ask if there are any test cases that the function should pass. Your interviewer might be expecting you to ask this question, so it might be necessary.
 
@@ -60,7 +60,7 @@ one side of the whiteboard, where it’s visible but won’t get in the way. You
 Even if we never make it to writing code, many interviewers will consider this a solution to the problem. It proves that we understood the problem, devised the correct solution, and are well on our way towards implementing it in code.
 
 
-##  Don’t sweat the small stuff.
+## Don’t sweat the small stuff.
 
 
 So don’t waste time memorizing keywords in your interview prep. Focus on the big picture
@@ -93,9 +93,7 @@ there are plenty of things that fall into that category beyond mere coding prowe
  if you have the time, review your code as you would in a peer review. Show the interviewer that you are committed to producing accurate, high-quality work, and that they can trust you to do so without being prompted.
 
 
-
-
-  ### resources
+### resources
 
   1- [the-best-whiteboard-interview-advice](https://hackernoon.com/the-best-whiteboard-interview-advice-i-ever-received-3ebbfa72e4a)
 
