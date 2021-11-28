@@ -35,8 +35,9 @@
 | 26    | [django-rest-framework](https://ashrf288.github.io/Reading-notes/401Readings/django-rest-framework) |
 |27     | [JWT](https://ashrf288.github.io/Reading-notes/401Readings/JWT)|
 | 28    | [SSH&Django.md](https://ashrf288.github.io/Reading-notes/401Readings/SSH&Django) |
-|29     |  [Graph](https://ashrf288.github.io/Reading-notes/401Readings/Graph) |
+|29     |  [Graph](https://ashrf288.github.io/Reading-notes/401Readings/Graph) | 
 | 30    | [whiteboard_interview](https://ashrf288.github.io/Reading-notes/401Readings/whiteboard_interview)|
+| 31    | [REACT&NEXT](https://ashrf288.github.io/Reading-notes/401Readings/REACT&NEXT)|
 
 ## 301 readings table :
 
