@@ -38,6 +38,7 @@
 |29     |  [Graph](https://ashrf288.github.io/Reading-notes/401Readings/Graph) | 
 | 30    | [whiteboard_interview](https://ashrf288.github.io/Reading-notes/401Readings/whiteboard_interview)|
 | 31    | [REACT&NEXT](https://ashrf288.github.io/Reading-notes/401Readings/REACT&NEXT)|
+| 32    | [react_2](https://ashrf288.github.io/Reading-notes/401Readings/react_2)|
 
 ## 301 readings table :
 
