@@ -39,8 +39,10 @@
 | 30    | [whiteboard_interview](https://ashrf288.github.io/Reading-notes/401Readings/whiteboard_interview)|
 | 31    | [REACT&NEXT](https://ashrf288.github.io/Reading-notes/401Readings/REACT&NEXT)|
 | 32    | [React_2](https://ashrf288.github.io/Reading-notes/401Readings/React_2)|   
-| 33    | [React_Context](https://ashrf288.github.io/Reading-notes/401Readings/React_Context)|
+| 33    | [React_Context](https://ashrf288.github.io/Reading-notes/401Readings/React_Context)|  
 | 34    | [react4](https://ashrf288.github.io/Reading-notes/401Readings/React4)| 
+| 35    | [Pythonisms](https://ashrf288.github.io/Reading-notes/401Readings/Pythonisms)| 
+| 35    | [Pythonisms](https://ashrf288.github.io/Reading-notes/401Readings/Pythonisms)| 
  
 ## 301 readings table :
 
