@@ -42,8 +42,8 @@
 | 33    | [React_Context](https://ashrf288.github.io/Reading-notes/401Readings/React_Context)|  
 | 34    | [react4](https://ashrf288.github.io/Reading-notes/401Readings/React4)| 
 | 35    | [Pythonisms](https://ashrf288.github.io/Reading-notes/401Readings/Pythonisms)| 
-| 36    | [EthicsinTech](https://ashrf288.github.io/Reading-notes/401Readings/EthicsinTech)| 
- 
+| 36    | [EthicsinTech](https://ashrf288.github.io/Reading-notes/401Readings/EthicsinTech)|   
+| 37    | [OSS_Contributions](https://ashrf288.github.io/Reading-notes/401Readings/OSS_Contributions)|  
 ## 301 readings table :
 
 
