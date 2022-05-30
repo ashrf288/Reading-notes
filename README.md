@@ -44,6 +44,7 @@
 | 35    | [Pythonisms](https://ashrf288.github.io/Reading-notes/401Readings/Pythonisms)| 
 | 36    | [EthicsinTech](https://ashrf288.github.io/Reading-notes/401Readings/EthicsinTech)|   
 | 37    | [OSS_Contributions](https://ashrf288.github.io/Reading-notes/401Readings/OSS_Contributions)|  
+| 40    | [reeact cheet sheet](https://www.freecodecamp.org/news/the-react-cheatsheet/)|
 ## 301 readings table :
 
 
